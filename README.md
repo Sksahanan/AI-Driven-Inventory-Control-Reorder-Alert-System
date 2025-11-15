@@ -2,6 +2,6 @@
 Developed an automated inventory monitoring and alert system using n8n workflows integrated with Google Sheets. Enabled real-time stock tracking and triggered reorder notifications, reducing stockouts by ~15% and cutting manual tracking effort by 40%.
 
 
-<img width="359" height="164" alt="image" src="https://github.com/user-attachments/assets/936ecc24-0d8c-480d-8c2d-5a7311f1055c" />
+<img width="1520" height="465" alt="image" src="https://github.com/user-attachments/assets/fa33f65a-4715-474a-aa4a-8bebd277e47c" />
 
-<img width="420" height="227" alt="image" src="https://github.com/user-attachments/assets/ea0e5e7f-e58f-478e-98b0-4e57c0882df1" />
+<img width="1222" height="660" alt="image" src="https://github.com/user-attachments/assets/8ee7ba1f-80cd-4037-a971-e14b128d42bb" />
